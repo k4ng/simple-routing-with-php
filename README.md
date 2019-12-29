@@ -13,7 +13,7 @@ An example how to make a rooting URL in PHP Language
 - About Page ```localhost/PROJECT_DIR/about```
 - Contact Page ```localhost/PROJECT_DIR/contact```
 
-### ADD And Remove PAGE
+### Add And Remove PAGE
 If you want to add or remove page you can added *new CASE* in this part code in ```index.php```
 ``` php 
 switch ($request) {
