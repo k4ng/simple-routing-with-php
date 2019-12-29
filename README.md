@@ -33,4 +33,8 @@ switch ($request) {
 }
 ```
 
+### Author
+[kang-cahya.com](https://www.kang-cahya.com/)
 
+### Source License
+[MIT License](https://github.com/k4ng/simple-rooting-with-php/blob/master/LICENSE)
