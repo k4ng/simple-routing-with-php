@@ -1,6 +1,6 @@
 <?php
-    // Define your location project directory in htdocs (EX THE FULL PATH: D:\xampp\htdocs\x-kang\simple-rooting-with-php)
-    $project_location = "/x-kang/simple-rooting-with-php";
+    // Define your location project directory in htdocs (EX THE FULL PATH: D:\xampp\htdocs\x-kang\simple-routing-with-php)
+    $project_location = "/x-kang/simple-routing-with-php";
     $me = $project_location;
 
     // For get URL PATH
